@@ -1,5 +1,7 @@
 # 2nd-ML100Days
 
+### About
+
 Use 100 days to learn the basic of Machine Learning
 
 - [AI community](https://www.cupoy.com/kwassist/ai_tw)
