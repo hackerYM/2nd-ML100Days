@@ -1,4 +1,4 @@
-# 2nd ML 100Days
+# 100 Days Of ML
 
 Use 100 days to learn the basic of Machine Learning
 
